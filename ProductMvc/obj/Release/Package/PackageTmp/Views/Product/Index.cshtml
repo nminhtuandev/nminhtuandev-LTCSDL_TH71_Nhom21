@@ -1,0 +1,15 @@
+﻿@model IEnumerable<ProductMvc.Models.Category>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@foreach (var item in Model)
+{ 
+    <div class="header1">
+        @Html.ActionLink(item.CategoryName, "ProductId", "Product", new { id = item.CategoryID }, null)
+    </div>
+    if (item.Products.Count() > 0)
+    {
+    @Html.Partial("ShowPartial", item.Products)
+    }
+}

@@ -1,0 +1,35 @@
+﻿@using ProductMvc.Models
+@model List<Product>
+
+@{
+    ViewBag.Title = "ResultSearch";
+}
+@foreach (var item in Model)
+{
+    <div id="row-@item.ProductID" class="inline-block" style="width: 30%; height: 225px; overflow: auto; border: 1px solid #d1cdcd; margin: 8px;">
+        <div class="header1">
+            @Html.ActionLink(@item.ProductName, "Details", "Product", new { id = item.ProductID }, null)
+        </div>
+        <div class="float-left">
+            <a href="@Url.Action("Details", "Product", new { id = item.ProductID })">
+                <img src="@Url.Content("~/" + @item.Image)" style="width:100px; height:100px; margin:5px 2px;"/>
+            </a>
+        </div>
+        <div>@item.ShortDescription</div>
+        <div class="clear-both">
+            <div>
+                Price : @string.Format("{0:0,0 VNĐ}", item.Price).Replace(",", ".")
+            </div>
+            <div style="margin-top: 10px;">
+                <a href="@Url.Action("AddToCart", "Shopping", new { id = item.ProductID }, null)" class="linkButton1">Mua Sản Phẩm</a>
+            </div>
+            @if (Request.IsAuthenticated)
+            {
+                <div style="margin-top: 10px;">
+                    @Html.ActionLink("Sửa", "Edit", new { id = item.ProductID }, new { @class = "linkButton2" })
+                    <a href="#" class="RemoveLink linkButton2" data-id="@item.ProductID">Xóa</a>
+                </div>
+            }
+        </div>
+    </div>      
+ }              

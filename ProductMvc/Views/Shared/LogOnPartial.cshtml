@@ -1,0 +1,16 @@
+﻿@{if (Request.IsAuthenticated)
+  {
+    <div style="border: 1px solid #bfbdbd; margin: 10px; padding: 10px;">
+        @Html.ActionLink("Trang Quản Trị", "Index", "Account", null, new { @class = "linkButton1" })
+        @Html.ActionLink("Thoát", "LogOff", "Account", null, new { @class = "linkButton1" })
+        @Html.ActionLink("Đổi mật khẩu", "ChangePass", "Account", null, new { @class = "linkButton1" })
+    </div> 
+  }
+  else
+  {
+    <div style="border: 1px solid #bfbdbd; margin: 10px; padding: 10px;">
+        <a href="@Url.Action("ShowCart", "Shopping")" class="linkButton1">Giỏ Hàng Của Bạn</a>
+    </div> 
+  } 
+}
+

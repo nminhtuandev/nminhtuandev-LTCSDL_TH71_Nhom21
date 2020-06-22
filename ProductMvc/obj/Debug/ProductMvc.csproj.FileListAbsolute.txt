@@ -1,0 +1,231 @@
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\obj\Debug\ProductMvc.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\bin\sqlceca40.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\bin\sqlcecompact40.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\bin\sqlceer40EN.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\bin\sqlceme40.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\bin\sqlceoledb40.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\bin\sqlceqp40.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\bin\sqlcese40.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\ProductMvc.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\ProductMvc.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\Antlr3.Runtime.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Data.SqlServerCe.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Data.SqlServerCe.Entity.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Net.Http.Formatting.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.Http.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.Http.WebHost.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.Mvc.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.Optimization.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.Providers.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.Razor.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.WebPages.Deployment.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.WebPages.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.WebPages.Razor.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\WebGrease.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Net.Http.Formatting.xml
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.Http.xml
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.Http.WebHost.xml
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.Mvc.xml
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.Razor.xml
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.WebPages.xml
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.WebPages.Deployment.xml
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\bin\System.Web.WebPages.Razor.xml
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\obj\Debug\ProductMvc.dll
+c:\users\administrator\documents\visual studio 2012\Projects\ProductMvc\ProductMvc\obj\Debug\ProductMvc.pdb
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlceca40.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlcecompact40.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlceer40EN.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlceme40.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlceoledb40.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlceqp40.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlcese40.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\ProductMvc.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\ProductMvc.pdb
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\Antlr3.Runtime.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\EntityFramework.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\Microsoft.Web.Infrastructure.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\Newtonsoft.Json.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Net.Http.Formatting.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Http.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Http.WebHost.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Mvc.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Optimization.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Providers.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Razor.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.WebPages.Deployment.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.WebPages.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.WebPages.Razor.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\WebGrease.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\EntityFramework.xml
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\Newtonsoft.Json.xml
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Net.Http.Formatting.xml
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Http.xml
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Http.WebHost.xml
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Mvc.xml
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Razor.xml
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.WebPages.xml
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.WebPages.Deployment.xml
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.WebPages.Razor.xml
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\obj\Debug\ProductMvc.dll
+E:\Tung\Project\ProductMvc\ProductMvc\ProductMvc\obj\Debug\ProductMvc.pdb
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\ProductMvc.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\ProductMvc.pdb
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\Antlr3.Runtime.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\EntityFramework.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\Microsoft.Web.Infrastructure.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\Newtonsoft.Json.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Net.Http.Formatting.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Http.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Http.WebHost.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Mvc.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Optimization.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Providers.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Razor.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.WebPages.Deployment.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.WebPages.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.WebPages.Razor.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\WebGrease.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\EntityFramework.xml
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\Newtonsoft.Json.xml
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Net.Http.Formatting.xml
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Http.xml
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Http.WebHost.xml
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Mvc.xml
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.Razor.xml
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.WebPages.xml
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.WebPages.Deployment.xml
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Web.WebPages.Razor.xml
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\obj\Debug\ProductMvc.csprojResolveAssemblyReference.cache
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\obj\Debug\ProductMvc.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\obj\Debug\ProductMvc.pdb
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlceca40.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlcecompact40.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlceer40EN.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlceme40.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlceoledb40.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlceqp40.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\bin\sqlcese40.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Data.SqlServerCe.dll
+E:\For Developers\New folder\LapTrinhViet.net\Asp.net MVC\ProductMvc\ProductMvc\ProductMvc\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\bin\sqlceca40.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\bin\sqlcecompact40.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\bin\sqlceer40EN.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\bin\sqlceme40.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\bin\sqlceoledb40.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\bin\sqlceqp40.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\bin\sqlcese40.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\ProductMvc.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\ProductMvc.pdb
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Data.SqlServerCe.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\obj\Debug\ProductMvc.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\obj\Debug\ProductMvc.dll
+C:\Users\Admin\Desktop\Doan1\[Sharecode.vn] Share code web ban hang MVC4 Asp.Net\ProductMvc\ProductMvc\obj\Debug\ProductMvc.pdb
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlceca40.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlcecompact40.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlceer40EN.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlceme40.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlceoledb40.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlceqp40.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlcese40.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\ProductMvc.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\ProductMvc.pdb
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Data.SqlServerCe.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Providers.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\obj\Debug\ProductMvc.dll
+C:\Users\Admin\Desktop\Doan1\Webbansach\ProductMvc\ProductMvc\obj\Debug\ProductMvc.pdb
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlceca40.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlcecompact40.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlceer40EN.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlceme40.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlceoledb40.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlceqp40.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\bin\sqlcese40.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\ProductMvc.dll.config
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\ProductMvc.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\ProductMvc.pdb
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\Antlr3.Runtime.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\EntityFramework.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\Newtonsoft.Json.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Net.Http.Formatting.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Http.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Http.WebHost.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Mvc.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Optimization.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Providers.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Razor.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.WebPages.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\WebGrease.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\EntityFramework.xml
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\Newtonsoft.Json.xml
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Net.Http.Formatting.xml
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Http.xml
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Http.WebHost.xml
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Mvc.xml
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.Razor.xml
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.WebPages.xml
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\obj\Debug\ProductMvc.csprojAssemblyReference.cache
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\obj\Debug\ProductMvc.csproj.CoreCompileInputs.cache
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\obj\Debug\ProductMvc.csproj.CopyComplete
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\obj\Debug\ProductMvc.dll
+C:\Users\nminh\Downloads\DoAn\Webbansach\ProductMvc\ProductMvc\obj\Debug\ProductMvc.pdb

@@ -1,0 +1,6 @@
+﻿@model IEnumerable<ProductMvc.Models.Product>
+@{
+    ViewBag.Title = "ProductId";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@Html.Partial("ShowPartial",Model)

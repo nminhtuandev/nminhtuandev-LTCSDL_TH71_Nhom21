@@ -1,0 +1,10 @@
+﻿@model IEnumerable<ProductMvc.Models.Product>
+<div class="header1">
+    Sản Phẩm Nổi Bật
+</div>
+<ul>
+   @foreach (var item in Model)
+   {
+       <li>@Html.ActionLink(@item.ProductName, "Details","Product", new { id = item.ProductID },null)</li>
+   }
+</ul>

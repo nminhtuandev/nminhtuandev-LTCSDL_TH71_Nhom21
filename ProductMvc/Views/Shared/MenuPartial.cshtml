@@ -1,0 +1,13 @@
+﻿
+@using (Html.BeginForm("ResultSearch", "Search"))
+    {
+        <a href="@Url.Action("Index","Product")"> <img src="~/Content/Image/System/logo.png"  width="100px" height="100px"/></a>
+        <input type="text" placeholder="Nhập vào tên sách cần tìm" , name="txtSearch" style="width:150px;height:40px;margin-bottom:10px"/>
+        <input type="submit" value="Search"/> 
+        <a href="#">   @Html.ActionLink("Văn Học Việt Nam", "ProductId", "Product", new { id = 1}, null)</a>
+        <a href="#">   @Html.ActionLink("Văn Học Nước Ngoài", "ProductId", "Product", new { id = 2}, null)</a>
+        <a href="#">   @Html.ActionLink("Khoa Học - Công Nghệ", "ProductId", "Product", new { id = 3}, null)</a>
+        <a href="#">   @Html.ActionLink("Ngoại Ngữ - Tin Học", "ProductId", "Product", new { id = 4}, null)</a>
+        <a href="#">   @Html.ActionLink("Truyện Tranh", "ProductId", "Product", new { id = 5}, null)</a>
+    }
+   

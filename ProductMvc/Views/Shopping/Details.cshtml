@@ -1,0 +1,63 @@
+﻿@model ProductMvc.Models.Order
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<fieldset>
+    <legend>Thông tin khác hàng</legend>
+    <table>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.Customer)</td>
+            <td>@Html.DisplayFor(model => model.Customer)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.Email)</td>
+            <td>@Html.DisplayFor(model => model.Email)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.Phone)</td>
+            <td>@Html.DisplayFor(model => model.Phone)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.Address)</td>
+            <td>@Html.DisplayFor(model => model.Address)</td>
+        </tr>
+        <tr>
+            <td>@Html.DisplayNameFor(model => model.Active)</td>
+            <td>@Html.DisplayFor(model => model.Active)</td>
+        </tr>
+    </table>
+</fieldset>
+
+<fieldset>
+    <legend>Chi Tiết Đơn Hàng</legend>
+    <table>
+        <thead>
+            <tr>
+                <th>Sản Phẩm</th>
+                <th>Đơn Giá</th>
+                <th>Số Lượng</th>
+                <th>Thành Tiền</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                var Total = Model.OrderDetails.Sum(m => m.Product.Price * m.Quantity);
+            }
+            @foreach (var item in Model.OrderDetails)
+            {
+                var SubTotal = item.Quantity * item.Product.Price;
+                <tr>
+                    <td>@item.Product.ProductName</td>
+                    <td>@string.Format("{0:0,0 VNĐ}", item.Product.Price).Replace(",", ".")</td>
+                    <td>@item.Quantity</td>
+                    <td>@string.Format("{0:0,0 VNĐ}", SubTotal).Replace(",", ".")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div style="border-top: solid 2px #0094ff; margin: 10px; padding: 10px; font-size: 20px; font-weight: bold;">
+        Tổng Tiền :@string.Format("{0:0,0 VNĐ}", @Total).Replace(",", ".")
+    </div>
+</fieldset>

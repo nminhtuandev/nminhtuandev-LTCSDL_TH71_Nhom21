@@ -1,0 +1,16 @@
+﻿/*#region Main Menu */
+.mainMenu {
+    background: #4f86f8;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+    .mainMenu a {
+         font-size: 16px;
+        color: #FFFFFF;
+        font-weight: bold;       
+        padding: 10px;
+        border-right: 1px solid #fff;
+    }
+
+/*#endregion */

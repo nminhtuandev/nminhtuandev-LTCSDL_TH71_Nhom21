@@ -1,0 +1,8 @@
+﻿@model string
+@Scripts.Render("~/Scripts/ckeditor/ckeditor.js")
+<script type="text/javascript">
+    $(document).ready(function () {
+        CKEDITOR.replace('ckeditor');
+    });
+</script>
+@Html.TextArea("", new { @class = "ckeditor" })

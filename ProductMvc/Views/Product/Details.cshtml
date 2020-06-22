@@ -1,0 +1,25 @@
+﻿@model ProductMvc.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="float-left">
+    <img src="@Url.Content("~/" + Model.Image)" width="150" height="150"/>
+</div>
+<div>
+    <div class="textHeader">
+        @Html.DisplayFor(model => model.ProductName)
+    </div>
+    <div>
+        Giá:  @string.Format("{0:0,0$}", Model.Price).Replace(",", ".")
+    </div>   
+    <div>
+        <div style="margin-top: 10px;">
+            <a href="@Url.Action("AddToCart", "Shopping", new { id = Model.ProductID }, null)" class="linkButton1">Mua Sản Phẩm</a>       
+        </div>
+    </div>
+</div>
+<div class="clear-both">
+    @MvcHtmlString.Create(Model.Description)
+</div>

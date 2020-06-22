@@ -1,0 +1,78 @@
+﻿@model ProductMvc.Models.Order
+@using ProductMvc.ViewModel
+@{
+    ViewBag.Title = "CreateOrder";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Session["Cart"] != null)
+{
+   var _CartSession = (List<CartVM>)Session["Cart"];
+   var Total = _CartSession.Sum(m => m.Product.Price * m.Quantity);
+    <table>
+        <thead>
+            <tr>
+                <th>Sản Phẩm</th>
+                <th>Đơn Giá</th>
+                <th>Số Lượng</th>
+                <th>Thành Tiền</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in _CartSession)
+            {
+                var SubTotal = item.Quantity * item.Product.Price;
+                <tr>
+                    <td>@item.Product.ProductName</td>
+                    <td>@string.Format("{0:0,0 VNĐ}", item.Product.Price).Replace(",", ".")</td>
+                    <td>@item.Quantity</td>
+                    <td> @string.Format("{0:0,0 VNĐ}",SubTotal).Replace(",", ".")</td>
+                </tr>
+            }
+        </tbody>
+    </table>     
+    <div style="border-top: solid 2px #0094ff; margin:10px; padding:10px; font-size:20px; font-weight:bold;">
+        Tổng Tiền :@string.Format("{0:0,0 VNĐ}", @Total).Replace(",", ".") 
+    </div> 
+}
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>Thông tin khách hàng</legend>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Customer)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Customer)
+            @Html.ValidationMessageFor(model => model.Customer)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Email)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Email)
+            @Html.ValidationMessageFor(model => model.Email)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Phone)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Phone)
+            @Html.ValidationMessageFor(model => model.Phone)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Address)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Address)
+            @Html.ValidationMessageFor(model => model.Address)
+        </div>
+        <p>
+            <input type="submit" value="Gửi Đơn Đặt Hàng" />
+        </p>
+    </fieldset>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

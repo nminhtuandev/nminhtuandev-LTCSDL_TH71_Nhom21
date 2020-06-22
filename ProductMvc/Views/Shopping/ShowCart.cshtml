@@ -1,0 +1,69 @@
+﻿@model IEnumerable<ProductMvc.Models.Product>
+@using ProductMvc.ViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script type="text/javascript">
+    $(function () {
+        $('.RemoveLink').click(function () {
+            var x = $(this).attr("data-id");
+            if (confirm("Đối tượng sẽ bị xóa.Bạn có muốn không ?")) {
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("RemoveCart", "Shopping")',
+                    data: { id: x }
+                });
+                $("#row-" + x).remove();
+            }
+        })
+    })
+</script>
+@if (Session["Cart"] != null)
+{
+    var _CartSession = (List<CartVM>)Session["Cart"];
+    var Total = _CartSession.Sum(m => m.Product.Price * m.Quantity);
+    <table>
+        <thead>
+            <tr>
+                <th>Sản Phẩm</th>
+                <th>Đơn Giá</th>
+                <th>Số Lượng</th>
+                <th>Thành Tiền</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in _CartSession)//@item.Quantity
+            {
+                var SubTotal = item.Quantity * item.Product.Price;
+                <tr id="row-@item.Product.ProductID">
+                    <td>@item.Product.ProductName</td>
+                    <td>@string.Format("{0:0,0 VNĐ}", item.Product.Price).Replace(",", ".")</td>
+                    <td>
+                            <form action="@Url.Action("fixQuantity")" method="get">
+                                <input type="hidden" name="MaSP" value="@item.ProductId" />
+                                <input type="number" min="1" step="1" name="soluongmoi" value="@item.Quantity"/>
+                                <button type="submit" class="btn btn-primary btn-sm"> Cập nhật </button>
+                            </form>
+                    </td>
+                    <td> @string.Format("{0:0,0 VNĐ}",SubTotal).Replace(",", ".")</td>
+                    <td><a href="#" class="RemoveLink" data-id="@item.Product.ProductID">Xóa</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>     
+    <div style="border-top: solid 2px #0094ff; margin:10px; padding:10px; font-size:20px; font-weight:bold;">
+        Tổng Tiền :@string.Format("{0:0,0 VNĐ}", @Total).Replace(",", ".") 
+    </div>    
+    <a href="@Url.Action("Create","Shopping")" class="linkButton1">Đặt Hàng</a>
+    <a href="@Url.Action("Index","Product")" class="linkButton1">Trở về Trang Chủ</a>
+}
+else
+{ 
+    <h1>Giỏ hàng trống</h1>
+    <p>
+        <a href="@Url.Action("Index","Product")" class="linkButton1">Trở về Trang Chủ</a>
+    </p>
+    
+}
